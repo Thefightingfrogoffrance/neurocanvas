@@ -183,6 +183,3 @@ Source code and development instructions for the signal service are maintained s
 
 ---
 
-## License
-
-MIT
